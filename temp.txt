@@ -4,3 +4,7 @@ Hello, Git.
 1. Modified: 파일 수정 상태
 2. Staged: 커밋 대기 상태. (git add)
 3. Committed: 커밋한 상태. (git commit)
+
+집가고 싶다
+
+1. 커밋하기
